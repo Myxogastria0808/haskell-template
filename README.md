@@ -1,6 +1,6 @@
 # sample
 
-> [!TIPS]
+> [!TIP]
 > This template has a haskell package named "sample".
 
 ## Setup
