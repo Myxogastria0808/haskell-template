@@ -86,7 +86,6 @@ stack new <package-name> simple --bare
 
 5. create `hie.yaml`
 
-
 ```yaml
 cradle:
   stack:
