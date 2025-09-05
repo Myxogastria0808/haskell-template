@@ -1,4 +1,4 @@
 cradle:
   stack:
     - path: "./src"
-      component: "<package-name>:exe:<package-name>"
+      component: "sample:exe:sample"
